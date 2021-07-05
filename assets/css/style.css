@@ -1,0 +1,59 @@
+.navbar{
+    background-color:#17a2b8;
+}
+.nav{
+    color:white; filter:alpha(opacity=100); opacity:1;
+}
+.navbar-brand{
+    font-size: 40px;
+    font-family:"Oswald";
+    font-weight:bold ;
+}
+.navbar-brand img{
+    max-height: 50px;
+}
+.cont{
+    text-align: center;
+    font-family: Verdana;
+    padding-top: 2rem;
+    
+}
+
+
+.destacados{
+    padding:3rem 2rem 4rem 3rem;
+   
+}
+.paragraph{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.card img{
+    max-height: 150px;
+}
+hr{
+    background-color:#17a2b8;   
+}
+
+
+#redes{
+    background-color:#17a2b8;
+    text-align:center;
+  }
+  .icono-1, .icono-2, .icono-3, .icono-4{
+    color: #ffffff;
+    text-align:center;
+    margin: 10px;
+  
+  }
+  .mi-nombre{
+    font-family:"Oswald";
+    color: #ffffff;
+    font-size: 40px;
+  }
+  .btn-secondary{
+    background-color: #009C95;
+    color: #ffffff;
+  border-color: #509F8C;
+ }
